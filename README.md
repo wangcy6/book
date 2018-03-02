@@ -5,12 +5,12 @@
 来源豆瓣top10，kinder阅读，微信读书点赞 推荐最多列表
 
 
-#文学书籍
-## 心理认知
+# 文学书籍
+### 认知
 - [巨婴国](http://www.kindlepush.com/book/20265 "作者：武志红")
 - [中国人的性格历程](http://www.kindlepush.com/book/8450 "作者：张宏杰") 
-## 历史人物
-[- 未来简史](http://www.kindlepush.com/book/19721 "作者：[以] 尤瓦尔·赫拉利")
+### 历史人物
+- [未来简史](http://www.kindlepush.com/book/19721 "作者：[以] 尤瓦尔·赫拉利")
 
 
 
